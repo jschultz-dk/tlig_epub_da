@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:rights>© Copyright Vassula Rydén 2018</dc:rights>
+    <dc:language>da</dc:language>
+    <dc:creator>Vassula Rydén</dc:creator>
+    <dc:title>SANDT LIV I GUD</dc:title>
+    <meta property="dcterms:modified">2023-11-23T00:13:05Z</meta>
+    <dc:identifier id="BookId">urn:uuid:5aa26aa9-b479-4879-8720-0b1f29f42319</dc:identifier>
+    <meta name="Sigil version" content="2.0.2"/>
+    <meta name="cover" content="cover-da.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="handwr.jpg" href="Images/handwr.jpg" media-type="image/jpeg"/>
+    <item id="jesus.png" href="Images/jesus.png" media-type="image/png"/>
+    <item id="cover-da.jpg" href="Images/cover-da.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="title.xhtml" href="Text/title.xhtml" media-type="application/xhtml+xml"/>
+    <item id="alfaomega.png" href="Images/alfaomega.png" media-type="image/png"/>
+    <item id="intro2.xhtml" href="Text/intro2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro3.xhtml" href="Text/intro3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="CrucifixSymbols.ttf" href="Fonts/CrucifixSymbols.ttf" media-type="font/ttf"/>
+    <item id="intro1.xhtml" href="Text/intro1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tlig.css" href="Styles/tlig.css" media-type="text/css"/>
+    <item id="intro4.xhtml" href="Text/intro4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="intro5.xhtml" href="Text/intro5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="vassula_signature.png" href="Images/vassula_signature.png" media-type="image/png"/>
+    <item id="intro6.xhtml" href="Text/intro6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ramon1-2.jpg" href="Images/ramon1-2.jpg" media-type="image/jpeg"/>
+    <item id="ramon2-2.jpg" href="Images/ramon2-2.jpg" media-type="image/jpeg"/>
+    <item id="appendix1.xhtml" href="Text/appendix1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix4.xhtml" href="Text/appendix4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix3.xhtml" href="Text/appendix3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="appendix2.xhtml" href="Text/appendix2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0-1986-09-20.xhtml" href="Text/0-1986-09-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1-1986-09-27.xhtml" href="Text/1-1986-09-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-1986-09-28.xhtml" href="Text/2-1986-09-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x3-1986-09-30.xhtml" href="Text/3-1986-09-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x4-1986-10-05.xhtml" href="Text/4-1986-10-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x5-1986-10-10.xhtml" href="Text/5-1986-10-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x17-1986-12-16.xhtml" href="Text/17-1986-12-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="symbol.ttf" href="Fonts/symbol.ttf" media-type="font/ttf"/>
+    <item id="sjesfish.png" href="Images/sjesfish.png" media-type="image/png"/>
+    <item id="x1059-1997-05-06.xhtml" href="Text/1059-1997-05-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="salfomeg.png" href="Images/salfomeg.png" media-type="image/png"/>
+    <item id="book.svg" href="Images/book.svg" media-type="image/svg+xml"/>
+    <item id="x819-1993-04-08.xhtml" href="Text/819-1993-04-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x6-1986-10-16.xhtml" href="Text/6-1986-10-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x7-1986-10-22.xhtml" href="Text/7-1986-10-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x8-1986-10-23.xhtml" href="Text/8-1986-10-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9-1986-11-09.xhtml" href="Text/9-1986-11-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10-1986-12-04.xhtml" href="Text/10-1986-12-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11-1986-12-08.xhtml" href="Text/11-1986-12-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12-1986-12-10.xhtml" href="Text/12-1986-12-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13-1986-12-11.xhtml" href="Text/13-1986-12-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14-1986-12-13.xhtml" href="Text/14-1986-12-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x15-1986-12-14.xhtml" href="Text/15-1986-12-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x16-1986-12-15.xhtml" href="Text/16-1986-12-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x18-1987-01-08.xhtml" href="Text/18-1987-01-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x19-1987-01-21.xhtml" href="Text/19-1987-01-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x20-1987-01-23.xhtml" href="Text/20-1987-01-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x21-1987-01-24.xhtml" href="Text/21-1987-01-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x22-1987-01-30.xhtml" href="Text/22-1987-01-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23-1987-02-01.xhtml" href="Text/23-1987-02-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24-1987-02-02.xhtml" href="Text/24-1987-02-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x25-1987-02-03.xhtml" href="Text/25-1987-02-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x26-1987-02-04.xhtml" href="Text/26-1987-02-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x27-1987-02-05.xhtml" href="Text/27-1987-02-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x28-1987-02-09.xhtml" href="Text/28-1987-02-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x29-1987-02-10.xhtml" href="Text/29-1987-02-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x30-1987-02-11.xhtml" href="Text/30-1987-02-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x31-1987-02-12.xhtml" href="Text/31-1987-02-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x32-1987-02-13.xhtml" href="Text/32-1987-02-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x33-1987-02-14.xhtml" href="Text/33-1987-02-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x34-1987-02-15.xhtml" href="Text/34-1987-02-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x35-1987-02-16.xhtml" href="Text/35-1987-02-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x36-1987-02-17.xhtml" href="Text/36-1987-02-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x37-1987-02-18.xhtml" href="Text/37-1987-02-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x38-1987-02-19.xhtml" href="Text/38-1987-02-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x39-1987-02-26.xhtml" href="Text/39-1987-02-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x40-1987-03-01.xhtml" href="Text/40-1987-03-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x41-1987-03-02.xhtml" href="Text/41-1987-03-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x42-1987-03-03.xhtml" href="Text/42-1987-03-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x43-1987-03-04.xhtml" href="Text/43-1987-03-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x44-1987-03-05.xhtml" href="Text/44-1987-03-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x45-1987-03-06.xhtml" href="Text/45-1987-03-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x46-1987-03-07.xhtml" href="Text/46-1987-03-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x47-1987-03-08.xhtml" href="Text/47-1987-03-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x48-1987-03-17.xhtml" href="Text/48-1987-03-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x49-1987-03-18.xhtml" href="Text/49-1987-03-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x50-1987-03-19.xhtml" href="Text/50-1987-03-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sjesfish.gif" href="Images/sjesfish.gif" media-type="image/gif"/>
+    <item id="bend1.gif" href="Images/bend1.gif" media-type="image/gif"/>
+    <item id="bend2.gif" href="Images/bend2.gif" media-type="image/gif"/>
+    <item id="bgwref.css" href="Styles/bgwref.css" media-type="text/css"/>
+    <item id="x51-1987-03-20.xhtml" href="Text/51-1987-03-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x52-1987-03-21.xhtml" href="Text/52-1987-03-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x53-1987-03-22.xhtml" href="Text/53-1987-03-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x54-1987-03-23.xhtml" href="Text/54-1987-03-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x55-1987-03-26.xhtml" href="Text/55-1987-03-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x56-1987-03-27.xhtml" href="Text/56-1987-03-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x57-1987-03-30.xhtml" href="Text/57-1987-03-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x58-1987-04-03.xhtml" href="Text/58-1987-04-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x59-1987-04-04.xhtml" href="Text/59-1987-04-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x60-1987-04-05.xhtml" href="Text/60-1987-04-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x61-1987-04-06.xhtml" href="Text/61-1987-04-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x62-1987-04-07.xhtml" href="Text/62-1987-04-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x63-1987-04-08.xhtml" href="Text/63-1987-04-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x64-1987-04-09.xhtml" href="Text/64-1987-04-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x65-1987-04-10.xhtml" href="Text/65-1987-04-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x66-1987-04-16.xhtml" href="Text/66-1987-04-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x67-1987-04-17.xhtml" href="Text/67-1987-04-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x68-1987-04-23.xhtml" href="Text/68-1987-04-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x69-1987-04-26.xhtml" href="Text/69-1987-04-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x70-1987-04-27.xhtml" href="Text/70-1987-04-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x71-1987-04-29.xhtml" href="Text/71-1987-04-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x72-1987-04-30.xhtml" href="Text/72-1987-04-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x73-1987-05-01.xhtml" href="Text/73-1987-05-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x74-1987-05-02.xhtml" href="Text/74-1987-05-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x75-1987-05-05.xhtml" href="Text/75-1987-05-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x76-1987-05-06.xhtml" href="Text/76-1987-05-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x77-1987-05-07.xhtml" href="Text/77-1987-05-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x78-1987-05-08.xhtml" href="Text/78-1987-05-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x79-1987-05-09.xhtml" href="Text/79-1987-05-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x80-1987-05-10.xhtml" href="Text/80-1987-05-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x81-1987-05-13.xhtml" href="Text/81-1987-05-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x82-1987-05-14.xhtml" href="Text/82-1987-05-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x83-1987-05-15.xhtml" href="Text/83-1987-05-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x84-1987-05-16.xhtml" href="Text/84-1987-05-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x85-1987-05-17.xhtml" href="Text/85-1987-05-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x86-1987-05-18.xhtml" href="Text/86-1987-05-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x87-1987-05-19.xhtml" href="Text/87-1987-05-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x88-1987-05-20.xhtml" href="Text/88-1987-05-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x89-1987-05-23.xhtml" href="Text/89-1987-05-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x90-1987-05-24.xhtml" href="Text/90-1987-05-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x91-1987-05-25.xhtml" href="Text/91-1987-05-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x92-1987-05-26.xhtml" href="Text/92-1987-05-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x93-1987-05-27.xhtml" href="Text/93-1987-05-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x94-1987-05-28.xhtml" href="Text/94-1987-05-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x95-1987-05-29.xhtml" href="Text/95-1987-05-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x96-1987-05-31.xhtml" href="Text/96-1987-05-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x97-1987-06-01.xhtml" href="Text/97-1987-06-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x98-1987-06-02.xhtml" href="Text/98-1987-06-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x99-1987-06-03.xhtml" href="Text/99-1987-06-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x100-1987-06-04.xhtml" href="Text/100-1987-06-04.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="title.xhtml"/>
+    <itemref idref="intro1.xhtml"/>
+    <itemref idref="intro2.xhtml"/>
+    <itemref idref="intro3.xhtml"/>
+    <itemref idref="intro4.xhtml"/>
+    <itemref idref="intro5.xhtml"/>
+    <itemref idref="intro6.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="x0-1986-09-20.xhtml"/>
+    <itemref idref="x1-1986-09-27.xhtml"/>
+    <itemref idref="x2-1986-09-28.xhtml"/>
+    <itemref idref="x3-1986-09-30.xhtml"/>
+    <itemref idref="x4-1986-10-05.xhtml"/>
+    <itemref idref="x5-1986-10-10.xhtml"/>
+    <itemref idref="x6-1986-10-16.xhtml"/>
+    <itemref idref="x7-1986-10-22.xhtml"/>
+    <itemref idref="x8-1986-10-23.xhtml"/>
+    <itemref idref="x9-1986-11-09.xhtml"/>
+    <itemref idref="x10-1986-12-04.xhtml"/>
+    <itemref idref="x11-1986-12-08.xhtml"/>
+    <itemref idref="x12-1986-12-10.xhtml"/>
+    <itemref idref="x13-1986-12-11.xhtml"/>
+    <itemref idref="x14-1986-12-13.xhtml"/>
+    <itemref idref="x15-1986-12-14.xhtml"/>
+    <itemref idref="x16-1986-12-15.xhtml"/>
+    <itemref idref="x17-1986-12-16.xhtml"/>
+    <itemref idref="x18-1987-01-08.xhtml"/>
+    <itemref idref="x19-1987-01-21.xhtml"/>
+    <itemref idref="x20-1987-01-23.xhtml"/>
+    <itemref idref="x21-1987-01-24.xhtml"/>
+    <itemref idref="x22-1987-01-30.xhtml"/>
+    <itemref idref="x23-1987-02-01.xhtml"/>
+    <itemref idref="x24-1987-02-02.xhtml"/>
+    <itemref idref="x25-1987-02-03.xhtml"/>
+    <itemref idref="x26-1987-02-04.xhtml"/>
+    <itemref idref="x27-1987-02-05.xhtml"/>
+    <itemref idref="x28-1987-02-09.xhtml"/>
+    <itemref idref="x29-1987-02-10.xhtml"/>
+    <itemref idref="x30-1987-02-11.xhtml"/>
+    <itemref idref="x31-1987-02-12.xhtml"/>
+    <itemref idref="x32-1987-02-13.xhtml"/>
+    <itemref idref="x33-1987-02-14.xhtml"/>
+    <itemref idref="x34-1987-02-15.xhtml"/>
+    <itemref idref="x35-1987-02-16.xhtml"/>
+    <itemref idref="x36-1987-02-17.xhtml"/>
+    <itemref idref="x37-1987-02-18.xhtml"/>
+    <itemref idref="x38-1987-02-19.xhtml"/>
+    <itemref idref="x39-1987-02-26.xhtml"/>
+    <itemref idref="x40-1987-03-01.xhtml"/>
+    <itemref idref="x41-1987-03-02.xhtml"/>
+    <itemref idref="x42-1987-03-03.xhtml"/>
+    <itemref idref="x43-1987-03-04.xhtml"/>
+    <itemref idref="x44-1987-03-05.xhtml"/>
+    <itemref idref="x45-1987-03-06.xhtml"/>
+    <itemref idref="x46-1987-03-07.xhtml"/>
+    <itemref idref="x47-1987-03-08.xhtml"/>
+    <itemref idref="x48-1987-03-17.xhtml"/>
+    <itemref idref="x49-1987-03-18.xhtml"/>
+    <itemref idref="x50-1987-03-19.xhtml"/>
+    <itemref idref="x51-1987-03-20.xhtml"/>
+    <itemref idref="x52-1987-03-21.xhtml"/>
+    <itemref idref="x53-1987-03-22.xhtml"/>
+    <itemref idref="x54-1987-03-23.xhtml"/>
+    <itemref idref="x55-1987-03-26.xhtml"/>
+    <itemref idref="x56-1987-03-27.xhtml"/>
+    <itemref idref="x57-1987-03-30.xhtml"/>
+    <itemref idref="x58-1987-04-03.xhtml"/>
+    <itemref idref="x59-1987-04-04.xhtml"/>
+    <itemref idref="x60-1987-04-05.xhtml"/>
+    <itemref idref="x61-1987-04-06.xhtml"/>
+    <itemref idref="x62-1987-04-07.xhtml"/>
+    <itemref idref="x63-1987-04-08.xhtml"/>
+    <itemref idref="x64-1987-04-09.xhtml"/>
+    <itemref idref="x65-1987-04-10.xhtml"/>
+    <itemref idref="x66-1987-04-16.xhtml"/>
+    <itemref idref="x67-1987-04-17.xhtml"/>
+    <itemref idref="x68-1987-04-23.xhtml"/>
+    <itemref idref="x69-1987-04-26.xhtml"/>
+    <itemref idref="x70-1987-04-27.xhtml"/>
+    <itemref idref="x71-1987-04-29.xhtml"/>
+    <itemref idref="x72-1987-04-30.xhtml"/>
+    <itemref idref="x73-1987-05-01.xhtml"/>
+    <itemref idref="x74-1987-05-02.xhtml"/>
+    <itemref idref="x75-1987-05-05.xhtml"/>
+    <itemref idref="x76-1987-05-06.xhtml"/>
+    <itemref idref="x77-1987-05-07.xhtml"/>
+    <itemref idref="x78-1987-05-08.xhtml"/>
+    <itemref idref="x79-1987-05-09.xhtml"/>
+    <itemref idref="x80-1987-05-10.xhtml"/>
+    <itemref idref="x81-1987-05-13.xhtml"/>
+    <itemref idref="x82-1987-05-14.xhtml"/>
+    <itemref idref="x83-1987-05-15.xhtml"/>
+    <itemref idref="x84-1987-05-16.xhtml"/>
+    <itemref idref="x85-1987-05-17.xhtml"/>
+    <itemref idref="x86-1987-05-18.xhtml"/>
+    <itemref idref="x87-1987-05-19.xhtml"/>
+    <itemref idref="x88-1987-05-20.xhtml"/>
+    <itemref idref="x89-1987-05-23.xhtml"/>
+    <itemref idref="x90-1987-05-24.xhtml"/>
+    <itemref idref="x91-1987-05-25.xhtml"/>
+    <itemref idref="x92-1987-05-26.xhtml"/>
+    <itemref idref="x93-1987-05-27.xhtml"/>
+    <itemref idref="x94-1987-05-28.xhtml"/>
+    <itemref idref="x95-1987-05-29.xhtml"/>
+    <itemref idref="x96-1987-05-31.xhtml"/>
+    <itemref idref="x97-1987-06-01.xhtml"/>
+    <itemref idref="x98-1987-06-02.xhtml"/>
+    <itemref idref="x99-1987-06-03.xhtml"/>
+    <itemref idref="x100-1987-06-04.xhtml"/>
+    <itemref idref="x819-1993-04-08.xhtml"/>
+    <itemref idref="x1059-1997-05-06.xhtml"/>
+    <itemref idref="appendix1.xhtml"/>
+    <itemref idref="appendix2.xhtml"/>
+    <itemref idref="appendix3.xhtml"/>
+    <itemref idref="appendix4.xhtml"/>
+  </spine>
+</package>
