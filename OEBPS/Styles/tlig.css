@@ -174,6 +174,7 @@ body {
     /* margins added for HTML, should be controlled by RS */
     margin-left: 3em;
     margin-right: 3em;
+	margin-bottom: 1em;
 /* RS will override margins anyways */
     padding: 0;
     widows: 2;
@@ -259,12 +260,15 @@ h1 {
 }
 .subtitle {
 /*	display: none;*/
-    font-size: 1.2em;
+	text-align: left;
+	font-style: italic;
+    font-size: 1.1em;
     line-height: 1.0;
     margin-top: 1em;
     margin-bottom: 0.5;
     font-weight: bold;
-	color: #8b3801;
+	color: #482020;
+	/* color: #8b3801; */
 }
 h2 {
     font-size: 1.3em;
@@ -364,11 +368,11 @@ blockquote p cite {
 }
 
 aside {
-    margin: 10px;
+ /*   margin: 10px;
     width: 95%;
     border: 1px solid;
     border-radius: 5px;
-    padding: 5px;
+    padding: 5px;*/
 }
 
 .pullquote {
@@ -415,7 +419,7 @@ cite,
 dfn,
 em {
   font-style: italic;
-  font-size: .9em;
+  font-size: .93em;
 }
 /* Get back to normal when italic nested in italic */
 i i,
@@ -452,7 +456,7 @@ ins {
   /* Styles */
 }
 small {
-  font-size: 0.8125em;
+  font-size: 0.93; /* 0.8125em; */
 }
 @media amzn-mobi {
   small {
@@ -1318,6 +1322,15 @@ render page on eInk devices)                                    */
 }
 
 /* Book content */
+p.title1 {
+	text-align: center; 
+	font-size: 1.5em;
+	margin-top: 35% 
+}
+p.title2 {
+	text-align: center; 
+	margin-top: 4em; 
+}
 p.intro2 {		/* intro1.html */
     width: 15em;
 	line-height: 1em;
@@ -1348,7 +1361,7 @@ p.intro7 {		/* intro6.html */
     width: 18em;
     margin-left: auto;
     margin-right: auto;
-	margin-top: 2em;
+	margin-top: 35%;
     text-align: left;
 }
 p.intro8 {		/* intro6.html */
@@ -1390,18 +1403,18 @@ p.intro8 {		/* intro6.html */
 }
 /* Other elements */
 aside {
-  font-size: .9em;
-  line-height: 1.2em;
-  text-indent: 0;
+  	font-size: .9em;
 }
 .bicon{
-  	height: 25px;
+  	height: 1.5em;
   	display: inline-block;
   	vertical-align: middle;
 	padding-right: 0.25em;
 }
 .bref {
+	font-weight: 150;
 	font-variant-caps: small-caps;
+	color: blue;
 }
 .symbol {
   font-family: Symbol !important; 
@@ -1414,7 +1427,7 @@ aside {
 
 /* Cleanup */
 .vcenter {
-	margin: 50vh 0 0 0;  /* vh stands for viewport height*/
+	margin: 50vh 0 0 0;  /* Vertical center */
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
 }
@@ -1440,9 +1453,6 @@ img.center {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 @font-face {
     font-family: "SymbolCrucifix";
     src: url("../Fonts/CrucifixSymbols.ttf");
@@ -1451,4 +1461,4 @@ img.center {
 @font-face {
     font-family: "Symbol";
     src: url("../Fonts/symbol.ttf");
-	
+}
