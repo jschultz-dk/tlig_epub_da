@@ -420,6 +420,7 @@ dfn,
 em {
   font-style: italic;
   font-size: .93em;
+  color: blue; 
 }
 /* Get back to normal when italic nested in italic */
 i i,
@@ -1396,7 +1397,7 @@ p.intro8 {		/* intro6.html */
   padding: 0; 
 }
 .e2i p:nth-child(even) { 
-  text-indent: 0.5cm;  
+  text-indent: .5cm;  
 }
 .e2i p:last-child {
 	margin-bottom: 1em;
@@ -1422,6 +1423,9 @@ aside {
 }
 .footnote-back {
 	padding-right: 0.5em;
+}
+.mary {
+	color: green;
 }
 
 

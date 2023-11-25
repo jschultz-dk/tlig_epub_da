@@ -5,7 +5,7 @@
     <dc:language>da</dc:language>
     <dc:creator>Vassula Rydén</dc:creator>
     <dc:title>SANDT LIV I GUD</dc:title>
-    <meta property="dcterms:modified">2023-11-23T22:55:12Z</meta>
+    <meta property="dcterms:modified">2023-11-25T23:05:14Z</meta>
     <dc:identifier id="BookId">urn:uuid:5aa26aa9-b479-4879-8720-0b1f29f42319</dc:identifier>
     <meta name="Sigil version" content="2.0.2"/>
     <meta name="cover" content="cover-da.jpg"/>
@@ -144,6 +144,138 @@
     <item id="ncx" href="ncx/toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="sjesfish.gif" href="Images/sjesfish.gif" media-type="image/gif"/>
     <item id="x17-1986-12-16.xhtml" href="Text/17-1986-12-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x101-1987-06-05.xhtml" href="Text/101-1987-06-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x102-1987-06-06.xhtml" href="Text/102-1987-06-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x103-1987-06-07.xhtml" href="Text/103-1987-06-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x104-1987-06-08.xhtml" href="Text/104-1987-06-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x105-1987-06-09.xhtml" href="Text/105-1987-06-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x106-1987-06-10.xhtml" href="Text/106-1987-06-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x107-1987-06-11.xhtml" href="Text/107-1987-06-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x108-1987-06-15.xhtml" href="Text/108-1987-06-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x109-1987-06-17.xhtml" href="Text/109-1987-06-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x110-1987-06-18.xhtml" href="Text/110-1987-06-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x111-1987-06-19.xhtml" href="Text/111-1987-06-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x112-1987-06-20.xhtml" href="Text/112-1987-06-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x113-1987-06-21.xhtml" href="Text/113-1987-06-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x114-1987-06-23.xhtml" href="Text/114-1987-06-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x115-1987-06-26.xhtml" href="Text/115-1987-06-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x116-1987-06-27.xhtml" href="Text/116-1987-06-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x117-1987-06-30.xhtml" href="Text/117-1987-06-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x118-1987-07-03.xhtml" href="Text/118-1987-07-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x119-1987-07-07.xhtml" href="Text/119-1987-07-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x120-1987-07-08.xhtml" href="Text/120-1987-07-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x121-1987-07-09.xhtml" href="Text/121-1987-07-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x122-1987-07-10.xhtml" href="Text/122-1987-07-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x123-1987-07-11.xhtml" href="Text/123-1987-07-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x124-1987-07-12.xhtml" href="Text/124-1987-07-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x125-1987-07-13.xhtml" href="Text/125-1987-07-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x126-1987-07-18.xhtml" href="Text/126-1987-07-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x127-1987-07-21.xhtml" href="Text/127-1987-07-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x128-1987-07-22.xhtml" href="Text/128-1987-07-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x129-1987-07-24.xhtml" href="Text/129-1987-07-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x130-1987-07-25.xhtml" href="Text/130-1987-07-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x131-1987-07-26.xhtml" href="Text/131-1987-07-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x132-1987-07-27.xhtml" href="Text/132-1987-07-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x133-1987-07-28.xhtml" href="Text/133-1987-07-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x134-1987-07-29.xhtml" href="Text/134-1987-07-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x135-1987-07-30.xhtml" href="Text/135-1987-07-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x136-1987-07-31.xhtml" href="Text/136-1987-07-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x137-1987-08-04.xhtml" href="Text/137-1987-08-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x138-1987-08-05.xhtml" href="Text/138-1987-08-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x139-1987-08-07.xhtml" href="Text/139-1987-08-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x140-1987-08-10.xhtml" href="Text/140-1987-08-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x141-1987-08-14.xhtml" href="Text/141-1987-08-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x142-1987-08-16.xhtml" href="Text/142-1987-08-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x143-1987-08-20.xhtml" href="Text/143-1987-08-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x144-1987-08-23.xhtml" href="Text/144-1987-08-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x145-1987-08-24.xhtml" href="Text/145-1987-08-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x146-1987-08-25.xhtml" href="Text/146-1987-08-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x147-1987-08-26.xhtml" href="Text/147-1987-08-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x148-1987-08-28.xhtml" href="Text/148-1987-08-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x149-1987-08-29.xhtml" href="Text/149-1987-08-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x150-1987-08-30.xhtml" href="Text/150-1987-08-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book.gif" href="Images/book.gif" media-type="image/gif"/>
+    <item id="x151-1987-08-31.xhtml" href="Text/151-1987-08-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x152-1987-09-01.xhtml" href="Text/152-1987-09-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x153-1987-09-04.xhtml" href="Text/153-1987-09-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x154-1987-09-05.xhtml" href="Text/154-1987-09-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x155-1987-09-06.xhtml" href="Text/155-1987-09-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x156-1987-09-07.xhtml" href="Text/156-1987-09-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x157-1987-09-08.xhtml" href="Text/157-1987-09-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x158-1987-09-09.xhtml" href="Text/158-1987-09-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x159-1987-09-10.xhtml" href="Text/159-1987-09-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x160-1987-09-11.xhtml" href="Text/160-1987-09-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x161-1987-09-12.xhtml" href="Text/161-1987-09-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x162-1987-09-13.xhtml" href="Text/162-1987-09-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x163-1987-09-15.xhtml" href="Text/163-1987-09-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x164-1987-09-17.xhtml" href="Text/164-1987-09-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x165-1987-09-18.xhtml" href="Text/165-1987-09-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x166-1987-09-20.xhtml" href="Text/166-1987-09-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x167-1987-09-21.xhtml" href="Text/167-1987-09-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x168-1987-09-22.xhtml" href="Text/168-1987-09-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x169-1987-09-23.xhtml" href="Text/169-1987-09-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x170-1987-09-24.xhtml" href="Text/170-1987-09-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x171-1987-09-25.xhtml" href="Text/171-1987-09-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x172-1987-09-26.xhtml" href="Text/172-1987-09-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x173-1987-09-27.xhtml" href="Text/173-1987-09-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x174-1987-09-28.xhtml" href="Text/174-1987-09-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x175-1987-09-29.xhtml" href="Text/175-1987-09-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x176-1987-10-01.xhtml" href="Text/176-1987-10-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x177-1987-10-02.xhtml" href="Text/177-1987-10-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x178-1987-10-05.xhtml" href="Text/178-1987-10-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x179-1987-10-06.xhtml" href="Text/179-1987-10-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x180-1987-10-08.xhtml" href="Text/180-1987-10-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x181-1987-10-10.xhtml" href="Text/181-1987-10-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x182-1987-10-12.xhtml" href="Text/182-1987-10-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x183-1987-10-13.xhtml" href="Text/183-1987-10-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x184-1987-10-15.xhtml" href="Text/184-1987-10-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x185-1987-10-16.xhtml" href="Text/185-1987-10-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x186-1987-10-18.xhtml" href="Text/186-1987-10-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x187-1987-10-19.xhtml" href="Text/187-1987-10-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x188-1987-10-21.xhtml" href="Text/188-1987-10-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x189-1987-10-22.xhtml" href="Text/189-1987-10-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x190-1987-10-23.xhtml" href="Text/190-1987-10-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x191-1987-10-26.xhtml" href="Text/191-1987-10-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x192-1987-10-27.xhtml" href="Text/192-1987-10-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x193-1987-10-30.xhtml" href="Text/193-1987-10-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x194-1987-11-03.xhtml" href="Text/194-1987-11-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x196-1987-11-08.xhtml" href="Text/196-1987-11-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x197-1987-11-10.xhtml" href="Text/197-1987-11-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x198-1987-11-12.xhtml" href="Text/198-1987-11-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x199-1987-11-13.xhtml" href="Text/199-1987-11-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x200-1987-11-14.xhtml" href="Text/200-1987-11-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x195-1987-11-05.xhtml" href="Text/195-1987-11-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x201-1987-11-16.xhtml" href="Text/201-1987-11-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x202-1987-11-18.xhtml" href="Text/202-1987-11-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x203-1987-11-21.xhtml" href="Text/203-1987-11-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x204-1987-11-22.xhtml" href="Text/204-1987-11-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x205-1987-11-23.xhtml" href="Text/205-1987-11-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="trin.gif" href="Images/trin.gif" media-type="image/gif"/>
+    <item id="x206-1987-11-24.xhtml" href="Text/206-1987-11-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x207-1987-11-25.xhtml" href="Text/207-1987-11-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x208-1987-11-28.xhtml" href="Text/208-1987-11-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x209-1987-11-29.xhtml" href="Text/209-1987-11-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x210-1987-11-30.xhtml" href="Text/210-1987-11-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x211-1987-12-01.xhtml" href="Text/211-1987-12-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x212-1987-12-02.xhtml" href="Text/212-1987-12-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x213-1987-12-04.xhtml" href="Text/213-1987-12-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x214-1987-12-06.xhtml" href="Text/214-1987-12-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x215-1987-12-07.xhtml" href="Text/215-1987-12-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x216-1987-12-08.xhtml" href="Text/216-1987-12-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x217-1987-12-11.xhtml" href="Text/217-1987-12-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x218-1987-12-12.xhtml" href="Text/218-1987-12-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x219-1987-12-19.xhtml" href="Text/219-1987-12-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x220-1987-12-21.xhtml" href="Text/220-1987-12-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x221-1987-12-22.xhtml" href="Text/221-1987-12-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x222-1987-12-23.xhtml" href="Text/222-1987-12-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x223-1987-12-26.xhtml" href="Text/223-1987-12-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x224-1987-12-28.xhtml" href="Text/224-1987-12-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x225-1987-12-31.xhtml" href="Text/225-1987-12-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x226-1988-01-01.xhtml" href="Text/226-1988-01-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x227-1988-01-02.xhtml" href="Text/227-1988-01-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x228-1988-01-04.xhtml" href="Text/228-1988-01-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x229-1988-01-05.xhtml" href="Text/229-1988-01-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x230-1988-01-06.xhtml" href="Text/230-1988-01-06.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
@@ -256,6 +388,136 @@
     <itemref idref="x98-1987-06-02.xhtml"/>
     <itemref idref="x99-1987-06-03.xhtml"/>
     <itemref idref="x100-1987-06-04.xhtml"/>
+    <itemref idref="x101-1987-06-05.xhtml"/>
+    <itemref idref="x102-1987-06-06.xhtml"/>
+    <itemref idref="x103-1987-06-07.xhtml"/>
+    <itemref idref="x104-1987-06-08.xhtml"/>
+    <itemref idref="x105-1987-06-09.xhtml"/>
+    <itemref idref="x106-1987-06-10.xhtml"/>
+    <itemref idref="x107-1987-06-11.xhtml"/>
+    <itemref idref="x108-1987-06-15.xhtml"/>
+    <itemref idref="x109-1987-06-17.xhtml"/>
+    <itemref idref="x110-1987-06-18.xhtml"/>
+    <itemref idref="x111-1987-06-19.xhtml"/>
+    <itemref idref="x112-1987-06-20.xhtml"/>
+    <itemref idref="x113-1987-06-21.xhtml"/>
+    <itemref idref="x114-1987-06-23.xhtml"/>
+    <itemref idref="x115-1987-06-26.xhtml"/>
+    <itemref idref="x116-1987-06-27.xhtml"/>
+    <itemref idref="x117-1987-06-30.xhtml"/>
+    <itemref idref="x118-1987-07-03.xhtml"/>
+    <itemref idref="x119-1987-07-07.xhtml"/>
+    <itemref idref="x120-1987-07-08.xhtml"/>
+    <itemref idref="x121-1987-07-09.xhtml"/>
+    <itemref idref="x122-1987-07-10.xhtml"/>
+    <itemref idref="x123-1987-07-11.xhtml"/>
+    <itemref idref="x124-1987-07-12.xhtml"/>
+    <itemref idref="x125-1987-07-13.xhtml"/>
+    <itemref idref="x126-1987-07-18.xhtml"/>
+    <itemref idref="x127-1987-07-21.xhtml"/>
+    <itemref idref="x128-1987-07-22.xhtml"/>
+    <itemref idref="x129-1987-07-24.xhtml"/>
+    <itemref idref="x130-1987-07-25.xhtml"/>
+    <itemref idref="x131-1987-07-26.xhtml"/>
+    <itemref idref="x132-1987-07-27.xhtml"/>
+    <itemref idref="x133-1987-07-28.xhtml"/>
+    <itemref idref="x134-1987-07-29.xhtml"/>
+    <itemref idref="x135-1987-07-30.xhtml"/>
+    <itemref idref="x136-1987-07-31.xhtml"/>
+    <itemref idref="x137-1987-08-04.xhtml"/>
+    <itemref idref="x138-1987-08-05.xhtml"/>
+    <itemref idref="x139-1987-08-07.xhtml"/>
+    <itemref idref="x140-1987-08-10.xhtml"/>
+    <itemref idref="x141-1987-08-14.xhtml"/>
+    <itemref idref="x142-1987-08-16.xhtml"/>
+    <itemref idref="x143-1987-08-20.xhtml"/>
+    <itemref idref="x144-1987-08-23.xhtml"/>
+    <itemref idref="x145-1987-08-24.xhtml"/>
+    <itemref idref="x146-1987-08-25.xhtml"/>
+    <itemref idref="x147-1987-08-26.xhtml"/>
+    <itemref idref="x148-1987-08-28.xhtml"/>
+    <itemref idref="x149-1987-08-29.xhtml"/>
+    <itemref idref="x150-1987-08-30.xhtml"/>
+    <itemref idref="x151-1987-08-31.xhtml"/>
+    <itemref idref="x152-1987-09-01.xhtml"/>
+    <itemref idref="x153-1987-09-04.xhtml"/>
+    <itemref idref="x154-1987-09-05.xhtml"/>
+    <itemref idref="x155-1987-09-06.xhtml"/>
+    <itemref idref="x156-1987-09-07.xhtml"/>
+    <itemref idref="x157-1987-09-08.xhtml"/>
+    <itemref idref="x158-1987-09-09.xhtml"/>
+    <itemref idref="x159-1987-09-10.xhtml"/>
+    <itemref idref="x160-1987-09-11.xhtml"/>
+    <itemref idref="x161-1987-09-12.xhtml"/>
+    <itemref idref="x162-1987-09-13.xhtml"/>
+    <itemref idref="x163-1987-09-15.xhtml"/>
+    <itemref idref="x164-1987-09-17.xhtml"/>
+    <itemref idref="x165-1987-09-18.xhtml"/>
+    <itemref idref="x166-1987-09-20.xhtml"/>
+    <itemref idref="x167-1987-09-21.xhtml"/>
+    <itemref idref="x168-1987-09-22.xhtml"/>
+    <itemref idref="x169-1987-09-23.xhtml"/>
+    <itemref idref="x170-1987-09-24.xhtml"/>
+    <itemref idref="x171-1987-09-25.xhtml"/>
+    <itemref idref="x172-1987-09-26.xhtml"/>
+    <itemref idref="x173-1987-09-27.xhtml"/>
+    <itemref idref="x174-1987-09-28.xhtml"/>
+    <itemref idref="x175-1987-09-29.xhtml"/>
+    <itemref idref="x176-1987-10-01.xhtml"/>
+    <itemref idref="x177-1987-10-02.xhtml"/>
+    <itemref idref="x178-1987-10-05.xhtml"/>
+    <itemref idref="x179-1987-10-06.xhtml"/>
+    <itemref idref="x180-1987-10-08.xhtml"/>
+    <itemref idref="x181-1987-10-10.xhtml"/>
+    <itemref idref="x182-1987-10-12.xhtml"/>
+    <itemref idref="x183-1987-10-13.xhtml"/>
+    <itemref idref="x184-1987-10-15.xhtml"/>
+    <itemref idref="x185-1987-10-16.xhtml"/>
+    <itemref idref="x186-1987-10-18.xhtml"/>
+    <itemref idref="x187-1987-10-19.xhtml"/>
+    <itemref idref="x188-1987-10-21.xhtml"/>
+    <itemref idref="x189-1987-10-22.xhtml"/>
+    <itemref idref="x190-1987-10-23.xhtml"/>
+    <itemref idref="x191-1987-10-26.xhtml"/>
+    <itemref idref="x192-1987-10-27.xhtml"/>
+    <itemref idref="x193-1987-10-30.xhtml"/>
+    <itemref idref="x194-1987-11-03.xhtml"/>
+    <itemref idref="x195-1987-11-05.xhtml"/>
+    <itemref idref="x196-1987-11-08.xhtml"/>
+    <itemref idref="x197-1987-11-10.xhtml"/>
+    <itemref idref="x198-1987-11-12.xhtml"/>
+    <itemref idref="x199-1987-11-13.xhtml"/>
+    <itemref idref="x200-1987-11-14.xhtml"/>
+    <itemref idref="x201-1987-11-16.xhtml"/>
+    <itemref idref="x202-1987-11-18.xhtml"/>
+    <itemref idref="x203-1987-11-21.xhtml"/>
+    <itemref idref="x204-1987-11-22.xhtml"/>
+    <itemref idref="x205-1987-11-23.xhtml"/>
+    <itemref idref="x206-1987-11-24.xhtml"/>
+    <itemref idref="x207-1987-11-25.xhtml"/>
+    <itemref idref="x208-1987-11-28.xhtml"/>
+    <itemref idref="x209-1987-11-29.xhtml"/>
+    <itemref idref="x210-1987-11-30.xhtml"/>
+    <itemref idref="x211-1987-12-01.xhtml"/>
+    <itemref idref="x212-1987-12-02.xhtml"/>
+    <itemref idref="x213-1987-12-04.xhtml"/>
+    <itemref idref="x214-1987-12-06.xhtml"/>
+    <itemref idref="x215-1987-12-07.xhtml"/>
+    <itemref idref="x216-1987-12-08.xhtml"/>
+    <itemref idref="x217-1987-12-11.xhtml"/>
+    <itemref idref="x218-1987-12-12.xhtml"/>
+    <itemref idref="x219-1987-12-19.xhtml"/>
+    <itemref idref="x220-1987-12-21.xhtml"/>
+    <itemref idref="x221-1987-12-22.xhtml"/>
+    <itemref idref="x222-1987-12-23.xhtml"/>
+    <itemref idref="x223-1987-12-26.xhtml"/>
+    <itemref idref="x224-1987-12-28.xhtml"/>
+    <itemref idref="x225-1987-12-31.xhtml"/>
+    <itemref idref="x226-1988-01-01.xhtml"/>
+    <itemref idref="x227-1988-01-02.xhtml"/>
+    <itemref idref="x228-1988-01-04.xhtml"/>
+    <itemref idref="x229-1988-01-05.xhtml"/>
+    <itemref idref="x230-1988-01-06.xhtml"/>
     <itemref idref="x1062-1997-05-06.xhtml"/>
     <itemref idref="appendix1.xhtml"/>
     <itemref idref="appendix2.xhtml"/>

@@ -23,7 +23,7 @@
     <content src="../Text/intro5.xhtml" />
     <navPoint id="navPoint3">
       <navLabel>
-        <text>20. september 1986</text>
+        <text>20. september 1986[1]</text>
       </navLabel>
       <content src="../Text/0-1986-09-20.xhtml" />
     </navPoint>
@@ -635,41 +635,341 @@
     </navPoint>
     <navPoint id="navPoint105">
       <navLabel>
+        <text>5. juni 1987</text>
+      </navLabel>
+      <content src="../Text/101-1987-06-05.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint106">
+      <navLabel>
+        <text>6. juni 1987</text>
+      </navLabel>
+      <content src="../Text/102-1987-06-06.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint107">
+      <navLabel>
+        <text>7. juni 1987</text>
+      </navLabel>
+      <content src="../Text/103-1987-06-07.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint108">
+      <navLabel>
+        <text>8. juni 1987</text>
+      </navLabel>
+      <content src="../Text/104-1987-06-08.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint109">
+      <navLabel>
+        <text>9. juni 1987</text>
+      </navLabel>
+      <content src="../Text/105-1987-06-09.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint110">
+      <navLabel>
+        <text>10. juni 1987</text>
+      </navLabel>
+      <content src="../Text/106-1987-06-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint111">
+      <navLabel>
+        <text>11. juni 1987</text>
+      </navLabel>
+      <content src="../Text/107-1987-06-11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint112">
+      <navLabel>
+        <text>15. juni 1987</text>
+      </navLabel>
+      <content src="../Text/108-1987-06-15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint113">
+      <navLabel>
+        <text>17. juni 1987</text>
+      </navLabel>
+      <content src="../Text/109-1987-06-17.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint114">
+      <navLabel>
+        <text>18. juni 1987</text>
+      </navLabel>
+      <content src="../Text/110-1987-06-18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint115">
+      <navLabel>
+        <text>19. juni 1987</text>
+      </navLabel>
+      <content src="../Text/111-1987-06-19.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint116">
+      <navLabel>
+        <text>20. juni 1987</text>
+      </navLabel>
+      <content src="../Text/112-1987-06-20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint117">
+      <navLabel>
+        <text>21. juni 1987</text>
+      </navLabel>
+      <content src="../Text/113-1987-06-21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint118">
+      <navLabel>
+        <text>23. juni 1987</text>
+      </navLabel>
+      <content src="../Text/114-1987-06-23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint119">
+      <navLabel>
+        <text>26. juni 1987</text>
+      </navLabel>
+      <content src="../Text/115-1987-06-26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint120">
+      <navLabel>
+        <text>27. juni 1987</text>
+      </navLabel>
+      <content src="../Text/116-1987-06-27.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint121">
+      <navLabel>
+        <text>30. juni 1987</text>
+      </navLabel>
+      <content src="../Text/117-1987-06-30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint122">
+      <navLabel>
+        <text>3. juli 1987</text>
+      </navLabel>
+      <content src="../Text/118-1987-07-03.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint123">
+      <navLabel>
+        <text>7. juli 1987</text>
+      </navLabel>
+      <content src="../Text/119-1987-07-07.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint124">
+      <navLabel>
+        <text>8. juli 1987</text>
+      </navLabel>
+      <content src="../Text/120-1987-07-08.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint125">
+      <navLabel>
+        <text>9. juli 1987</text>
+      </navLabel>
+      <content src="../Text/121-1987-07-09.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint126">
+      <navLabel>
+        <text>10. juli 1987</text>
+      </navLabel>
+      <content src="../Text/122-1987-07-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint127">
+      <navLabel>
+        <text>11. juli 1987</text>
+      </navLabel>
+      <content src="../Text/123-1987-07-11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint128">
+      <navLabel>
+        <text>12. juli 1987</text>
+      </navLabel>
+      <content src="../Text/124-1987-07-12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint129">
+      <navLabel>
+        <text>13. juli 1987</text>
+      </navLabel>
+      <content src="../Text/125-1987-07-13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint130">
+      <navLabel>
+        <text>18. juli 1987</text>
+      </navLabel>
+      <content src="../Text/126-1987-07-18.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint131">
+      <navLabel>
+        <text>21. juli 1987</text>
+      </navLabel>
+      <content src="../Text/127-1987-07-21.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint132">
+      <navLabel>
+        <text>22. juli 1987</text>
+      </navLabel>
+      <content src="../Text/128-1987-07-22.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint133">
+      <navLabel>
+        <text>24. juli 1987</text>
+      </navLabel>
+      <content src="../Text/129-1987-07-24.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint134">
+      <navLabel>
+        <text>25. juli 1987</text>
+      </navLabel>
+      <content src="../Text/130-1987-07-25.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint135">
+      <navLabel>
+        <text>26. juli 1987</text>
+      </navLabel>
+      <content src="../Text/131-1987-07-26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint136">
+      <navLabel>
+        <text>27. juli 1987</text>
+      </navLabel>
+      <content src="../Text/132-1987-07-27.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint137">
+      <navLabel>
+        <text>28. juli 1987</text>
+      </navLabel>
+      <content src="../Text/133-1987-07-28.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint138">
+      <navLabel>
+        <text>29. juli 1987</text>
+      </navLabel>
+      <content src="../Text/134-1987-07-29.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint139">
+      <navLabel>
+        <text>30. juli 1987</text>
+      </navLabel>
+      <content src="../Text/135-1987-07-30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint140">
+      <navLabel>
+        <text>31. juli 1987</text>
+      </navLabel>
+      <content src="../Text/136-1987-07-31.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint141">
+      <navLabel>
+        <text>4. august 1987</text>
+      </navLabel>
+      <content src="../Text/137-1987-08-04.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint142">
+      <navLabel>
+        <text>5. august 1987</text>
+      </navLabel>
+      <content src="../Text/138-1987-08-05.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint143">
+      <navLabel>
+        <text>7. august 1987</text>
+      </navLabel>
+      <content src="../Text/139-1987-08-07.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint144">
+      <navLabel>
+        <text>10. august 1987</text>
+      </navLabel>
+      <content src="../Text/140-1987-08-10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint145">
+      <navLabel>
+        <text>14. august 1987</text>
+      </navLabel>
+      <content src="../Text/141-1987-08-14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint146">
+      <navLabel>
+        <text>16. august 1987</text>
+      </navLabel>
+      <content src="../Text/142-1987-08-16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint147">
+      <navLabel>
+        <text>20. august 1987</text>
+      </navLabel>
+      <content src="../Text/143-1987-08-20.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint148">
+      <navLabel>
+        <text>23. august 1987</text>
+      </navLabel>
+      <content src="../Text/144-1987-08-23.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint149">
+      <navLabel>
+        <text>24. august 1987</text>
+      </navLabel>
+      <content src="../Text/145-1987-08-24.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint150">
+      <navLabel>
+        <text>25. august 1987</text>
+      </navLabel>
+      <content src="../Text/146-1987-08-25.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint151">
+      <navLabel>
+        <text>26. august 1987</text>
+      </navLabel>
+      <content src="../Text/147-1987-08-26.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint152">
+      <navLabel>
+        <text>28. august 1987</text>
+      </navLabel>
+      <content src="../Text/148-1987-08-28.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint153">
+      <navLabel>
+        <text>August 29, 1987</text>
+      </navLabel>
+      <content src="../Text/149-1987-08-29.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint154">
+      <navLabel>
+        <text>30. august 1987</text>
+      </navLabel>
+      <content src="../Text/150-1987-08-30.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint155">
+      <navLabel>
         <text>6. maj 1997</text>
       </navLabel>
       <content src="../Text/1062-1997-05-06.xhtml" />
     </navPoint>
   </navPoint>
-  <navPoint id="navPoint106">
+  <navPoint id="navPoint156">
     <navLabel>
       <text>APPENDIKS A</text>
     </navLabel>
     <content src="../Text/appendix1.xhtml" />
-    <navPoint id="navPoint107">
+    <navPoint id="navPoint157">
       <navLabel>
         <text>BØNNER</text>
       </navLabel>
       <content src="../Text/appendix1.xhtml#sigil_toc_id_1" />
     </navPoint>
   </navPoint>
-  <navPoint id="navPoint108">
+  <navPoint id="navPoint158">
     <navLabel>
       <text>APPENDIKS B</text>
     </navLabel>
     <content src="../Text/appendix2.xhtml" />
-    <navPoint id="navPoint109">
+    <navPoint id="navPoint159">
       <navLabel>
         <text>VASSULA RYDÉN OG TROSLÆREKONGREGATIONEN</text>
       </navLabel>
       <content src="../Text/appendix2.xhtml#sigil_toc_id_2" />
     </navPoint>
-    <navPoint id="navPoint110">
+    <navPoint id="navPoint160">
       <navLabel>
         <text>A-3</text>
       </navLabel>
       <content src="../Text/appendix3.xhtml" />
     </navPoint>
-    <navPoint id="navPoint111">
+    <navPoint id="navPoint161">
       <navLabel>
         <text>A-4</text>
       </navLabel>
